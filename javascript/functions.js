@@ -1,8 +1,3 @@
-const sum = (num1, num2) => {
-    console.log(num1+num2) 
-}
-sum(2,5)
-
 const fizzbuzz = () => {
     for (let i = 0; i < 50; i++) {
         if (i % 5 == 0) {
